@@ -1,4 +1,3 @@
-require_relative 'game'
 class Player
 
   DEFAULT_HP = 30

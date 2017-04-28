@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Owner/Documents/Projects/battle-jon/spec/features/hit_points_spec.rb": [
+      "/Users/jonathanelliot/Projects/Battle/spec/features/hit_points_spec.rb": [
         1,
         null,
         1,
@@ -39,7 +39,7 @@
         null,
         null
       ],
-      "/Users/Owner/Documents/Projects/battle-jon/spec/features/testing_infrastructure_spec.rb": [
+      "/Users/jonathanelliot/Projects/Battle/spec/features/testing_infrastructure_spec.rb": [
         1,
         1,
         1,
@@ -47,7 +47,7 @@
         null,
         null
       ],
-      "/Users/Owner/Documents/Projects/battle-jon/spec/features/testing_names_spec.rb": [
+      "/Users/jonathanelliot/Projects/Battle/spec/features/testing_names_spec.rb": [
         1,
         1,
         1,
@@ -55,7 +55,7 @@
         null,
         null
       ],
-      "/Users/Owner/Documents/Projects/battle-jon/spec/game_spec.rb": [
+      "/Users/jonathanelliot/Projects/Battle/spec/game_spec.rb": [
         1,
         null,
         1,
@@ -83,7 +83,7 @@
         null,
         null
       ],
-      "/Users/Owner/Documents/Projects/battle-jon/spec/player_spec.rb": [
+      "/Users/jonathanelliot/Projects/Battle/spec/player_spec.rb": [
         1,
         null,
         1,
@@ -104,6 +104,6 @@
         null
       ]
     },
-    "timestamp": 1493388092
+    "timestamp": 1493390389
   }
 }

@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/jonathanelliot/Projects/Battle/spec/features/hit_points_spec.rb": [
+      "/Users/Owner/Documents/Projects/battle-jon/spec/features/hit_points_spec.rb": [
         1,
         null,
         1,
@@ -13,19 +13,11 @@
         1,
         1,
         1,
-        0,
+        1,
         null,
         null,
         1,
         1,
-        1,
-        0,
-        0,
-        0,
-        null,
-        null
-      ],
-      "/Users/jonathanelliot/Projects/Battle/spec/features/testing_infrastructure_spec.rb": [
         1,
         1,
         1,
@@ -33,7 +25,7 @@
         null,
         null
       ],
-      "/Users/jonathanelliot/Projects/Battle/spec/features/testing_names_spec.rb": [
+      "/Users/Owner/Documents/Projects/battle-jon/spec/features/testing_infrastructure_spec.rb": [
         1,
         1,
         1,
@@ -41,19 +33,21 @@
         null,
         null
       ],
-      "/Users/jonathanelliot/Projects/Battle/spec/game_spec.rb": [
+      "/Users/Owner/Documents/Projects/battle-jon/spec/features/testing_names_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/Owner/Documents/Projects/battle-jon/spec/game_spec.rb": [
         1,
         null,
         1,
         2,
-        3,
-        3,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
+        2,
+        2,
         null,
         1,
         1,
@@ -66,18 +60,7 @@
         null,
         null
       ],
-      "/Users/jonathanelliot/Projects/Battle/lib/game.rb": [
-        1,
-        null,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/jonathanelliot/Projects/Battle/spec/player_spec.rb": [
+      "/Users/Owner/Documents/Projects/battle-jon/spec/player_spec.rb": [
         1,
         null,
         1,
@@ -96,25 +79,8 @@
         null,
         null,
         null
-      ],
-      "/Users/jonathanelliot/Projects/Battle/lib/player.rb": [
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        10,
-        10,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null
       ]
     },
-    "timestamp": 1493374415
+    "timestamp": 1493376204
   }
 }

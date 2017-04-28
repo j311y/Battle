@@ -1,0 +1,84 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/Owner/Documents/Projects/battle-jon/spec/features/hit_points_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        0,
+        null,
+        null,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null
+      ],
+      "/Users/Owner/Documents/Projects/battle-jon/spec/features/testing_infrastructure_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/Owner/Documents/Projects/battle-jon/spec/features/testing_names_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/Owner/Documents/Projects/battle-jon/spec/game_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        1,
+        2,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/Owner/Documents/Projects/battle-jon/spec/player_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        4,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1493372580
+  }
+}

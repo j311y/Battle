@@ -21,7 +21,7 @@ feature 'Hit points' do
   scenario 'reduce P1 hit points by 10' do
     sign_in_and_play
     click_button('Attack Player 2!')
-    click_button('Back')
+    click_button("Player 2's turn")
     click_button('Attack Player 1!')
     expect(page).not_to have_content 'Red: 30HP'
     expect(page).to have_content 'Red: 20HP'
@@ -30,7 +30,7 @@ feature 'Hit points' do
   scenario 'reduce P2 hit points by 10' do
     sign_in_and_play
     click_button('Attack Player 2!')
-    click_button('Back')
+    click_button("Player 2's turn")
     expect(page).not_to have_content 'Blue: 30HP'
     expect(page).to have_content 'Blue: 20HP'
   end
